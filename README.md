@@ -23,8 +23,11 @@ I'm Nguyen Huu Hoang Long, a second-year Advanced Programming student at UIT, pu
 - 🚀 Aspiring to become a Machine Learning/AI Engineer
 
 ### 🤝 Get in Touch
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🔗 Check out my projects on [GitHub](https://github.com/yourusername)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/long-nguy%E1%BB%85n-h%E1%BB%AFu-ho%C3%A0ng-023870287/)
+- 📱 Connect with me on [Facebook](https://www.facebook.com/hoanglong.roai/)
+- 📸 Connect with me on [Instagram](https://www.instagram.com/hoanglong.roai/)
+- 🔗 Check out my projects on [GitHub](https://github.com/EbisuRyu)
+
 ---
 ### 📊 Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbisuRyu&layout=donut&show_icons=True&theme=compact&text_bold=True)](https://github.com/anuraghazra/github-readme-stats)
