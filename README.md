@@ -30,8 +30,7 @@ I'm Nguyen Huu Hoang Long, a second-year Advanced Programming student at UIT, pu
 
 ---
 ### 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EbisuRyu&layout=donut&show_icons=True&theme=compact&text_bold=True)](https://github.com/anuraghazra/github-readme-stats)
-
-[![EbisuRyu's GitHub stats](https://github-readme-stats.vercel.app/api?username=EbisuRyu&show_icons=True&theme=compact&text_bold=True&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://myreadme.vercel.app/api/embed/EbisuRyu?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-profile-trophy.vercel.app/?username=EbisuRyu&theme=juicyfresh&no-bg=true" />
 
 
