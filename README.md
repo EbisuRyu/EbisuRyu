@@ -30,7 +30,7 @@ I'm Nguyen Huu Hoang Long, a second-year Advanced Programming student at UIT, pu
 
 ---
 ### 📊 Stats
-<img src="https://myreadme.vercel.app/api/embed/EbisuRyu?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/EbisuRyu?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <img src="https://github-profile-trophy.vercel.app/?username=EbisuRyu&theme=juicyfresh&no-bg=true" />
 
 
