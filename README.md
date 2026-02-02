@@ -14,13 +14,6 @@
 
 I'm **Nguyen Huu Hoang Long**, a **final-year student in Advanced Programming** at the **University of Information Technology (UIT)**, majoring in **Computer Science**. My academic interests focus on **machine learning, deep learning, mathematics**, and **software development**, with a particular emphasis on **Natural Language Processing (NLP)**. Through coursework and self-driven projects, I have been building practical experience in designing, implementing, and experimenting with machine learning models. My long-term goal is to pursue a career as a **Machine Learning / AI Engineer**, where I can apply research-oriented thinking to real-world problems.
 
-### 📝 About Me
-- 🎓 Final-year student in Advanced Programming at UIT
-- 👨‍💻 Major: Computer Science
-- 🌱 Interests: machine learning, deep learning, mathematics, and coding
-- 💡 Focus area: Natural Language Processing (NLP)
-- 🚀 Career goal: Machine Learning / AI Engineer
-
 
 ### 🤝 Get in Touch
 - 📫 LinkedIn: [Nguyen Huu Hoang Long](https://www.linkedin.com/in/long-nguy%E1%BB%85n-h%E1%BB%AFu-ho%C3%A0ng-023870287/)
