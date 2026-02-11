@@ -1,19 +1,12 @@
-<img src="public/header.jpg" alt="Profile Image" width="100%" height="100" style="object-fit: cover;" />
+![Profile Image](public/header.jpg)
 
+## Hi There👋, I'm **EbisuRyu**🍀🐉 
 
-## Welcome to My Profile 🌱
-
-Hi There 👋, I'm **Nguyen Huu Hoang Long**  
-
-I am a **final year Computer Science student** in the **Honors Program** at the **University of Information Technology (VNU-HCM)**. My journey began with a deep passion for **Mathematics**, which earned me a Third Prize in the National Mathematics Olympiad. This foundation has fueled my curiosity to tackle complex problems and navigate complex challenges.
-
-Currently, I am specializing in **Machine Learning** and **Deep Learning**, with a strong focus on **bridging the gap between theoretical research and practical applications**. Beyond AI research, I am honing my skills as a **Software Engineer** to effectively bring **innovative ideas to life**. I possess **advanced proficiency in Python** and am currently mastering **modern JavaScript frameworks**. I actively participate in **tech competitions** to challenge myself and build **AI-driven solutions** that create **real-world impact**.
+I am a **final year Computer Science student** in the **Honors Program** at the **University of Information Technology (VNU-HCM)**. My journey began with a deep passion for **Mathematics**, which earned me a Third Prize in the National Mathematics Olympiad. This foundation has fueled my curiosity to tackle complex problems and navigate complex challenges. Currently, I am specializing in **Machine Learning** and **Deep Learning**, with a strong focus on **bridging the gap between theoretical research and practical applications**. Beyond AI research, I am honing my skills as a **Software Engineer** to effectively bring **innovative ideas to life**. I possess **advanced proficiency in Python** and am currently mastering **modern JavaScript frameworks**. I actively participate in **tech competitions** to challenge myself and build **AI-driven solutions** that create **real-world impact**.
 
 ### What Technologies Do I Work With? 🛠️
 
-An overview of the core technologies, frameworks, and tools that I frequently use or have hands-on experience with across AI, backend, and infrastructure domains.
-
-These are some of the major technologies that I use or have worked on in the past:
+An overview of the core technologies, frameworks, and tools that I frequently use or have hands-on experience with across AI, backend, and infrastructure domains. These are some of the major technologies that I use or have worked on in the past:
 
 <br>
 
@@ -68,4 +61,4 @@ Whether you're a recruiter, collaborator, or fellow developer, I’m always open
 
 <h4 align="center">✨ Thank you for stopping by my GitHub space ✨<h4>
 
-<img src="public/footer.jpg" alt="Profile Image" width="100%" height="100" style="object-fit: cover;" />
+![Profile Image](public/footer.jpg)
