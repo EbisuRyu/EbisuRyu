@@ -1,4 +1,5 @@
-![Profile Image](public/header.jpg)
+<img src="public/header.jpg" alt="Profile Image" width="100%" height="100" style="object-fit: cover;" />
+
 
 ## Welcome to My Profile 🌱
 
@@ -67,4 +68,4 @@ Whether you're a recruiter, collaborator, or fellow developer, I’m always open
 
 <h4 align="center">✨ Thank you for stopping by my GitHub space ✨<h4>
 
-![Profile Image](public/footer.jpg)
+<img src="public/footer.jpg" alt="Profile Image" width="100%" height="100" style="object-fit: cover;" />
